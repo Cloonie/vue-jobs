@@ -1,18 +1,18 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior Vue Developer",
+      "title": "Senior Vue Dev",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$100K - $125K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "1"
     },
     {
       "id": "2",
@@ -85,18 +85,18 @@
       }
     },
     {
-      "id": "ebcb",
       "title": "Application Programmer",
       "type": "Full-Time",
       "location": "Kuala Lumpur",
-      "description": "just keep coding",
+      "description": "Computer programmers write, modify, and test code and scripts that allow computer software and applications to function properly. They turn the designs created by software developers and engineers into instructions that a computer can follow.",
       "salary": "Over $200K",
       "company": {
         "name": "IXI Solutions",
         "description": "IT Software",
         "contactEmail": "hr@ixi.my",
         "contactPhone": "01120206969"
-      }
+      },
+      "id": "ebcb"
     }
   ]
 }
